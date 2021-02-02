@@ -1,0 +1,69 @@
+[
+	{
+	    "id":"test_user_1",
+	    "userName":"测试用户1",
+	    "password":"QWER1234",
+	    "centerId": "center_001",
+	    "centerName": "空间站运营管理支持中心",
+	    "userAddress":"邓庄南路9号",
+	    "userEmail":"testuser1@email.com",
+	    "userPhone":"13800138000"
+	}
+	,
+	{
+	    "id":"test_user_2",
+	    "userName":"测试用户2",
+	    "password":"QWER1234",
+	    "centerId": "center_002",
+	    "centerName": "载人航天工程信息中心",
+	    "userAddress":"邓庄南路9号",
+	    "userEmail":"testuser2@email.com",
+	    "userPhone":"13800138000"
+	}
+	,
+	{
+	    "id":"test_user_3",
+	    "userName":"测试用户3",
+	    "password":"QWER1234",
+	    "centerId": "center_003",
+	    "centerName": "运行控制中心",
+	    "userAddress":"邓庄南路9号",
+	    "userEmail":"testuser3@email.com",
+	    "userPhone":"13800138000"
+	}
+	,
+	{
+	    "id":"test_user_4",
+	    "userName":"测试用户4",
+	    "password":"QWER1234",
+	    "centerId": "center_004",
+	    "centerName": "航天员支持中心",
+	    "userAddress":"邓庄南路9号",
+	    "userEmail":"testuser4@email.com",
+	    "userPhone":"13800138000"
+	}
+	,
+	{
+	    "id":"test_user_5",
+	    "userName":"测试用户5",
+	    "password":"QWER1234",
+	    "centerId": "center_005",
+	    "centerName": "在轨航天器支持中心",
+	    "userAddress":"邓庄南路9号",
+	    "userEmail":"testuser5@email.com",
+	    "userPhone":"13800138000"
+	}
+	,
+	{
+	    "id":"test_user_6",
+	    "userName":"测试用户6",
+	    "password":"QWER1234",
+	    "centerId": "center_6",
+	    "centerName": "有效载荷运行管理中心",
+	    "userAddress":"邓庄南路9号",
+	    "userEmail":"testuser6@email.com",
+	    "userPhone":"13800138000"
+	}		
+]
+
+	

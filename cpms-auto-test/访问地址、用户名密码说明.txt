@@ -1,0 +1,66 @@
+DNS 已经配好了，访问咱们的网站需要在终端配置一下 DNS 服务，DNS 服务器 IP 是 172.13.30.130，各个软件的域名是
+数据管理与服务
+http://dataservice.cloud.cmse.cn
+软件仓库：
+http://repo.cloud.cmse.cn
+云上测试：
+http://testing.cloud.cmse.cn
+配额变更：
+http://qm.cloud.cmse.cn
+终端接入：
+http://tm.cloud.cmse.cn
+数据模型可视化：
+http://datavis.cloud.cmse.cn
+
+========================================
+
+软件仓库、配额变更、终端接入账号信息：
+云平台管理员
+账号：admin 密码：123
+
+各支持中心管理员
+空间站运营管理中心-总体仿真中心
+账号：test_user_1 密码：QWER1234
+空间站运营管理中心-运营规划中心
+账号：test_user_2 密码：QWER1234
+载人航天工程信息中心
+账号：test_user_3 密码：QWER1234
+运行控制中心
+账号：test_user_4 密码：QWER1234
+航天员支持中心
+账号：test_user_5 密码：QWER1234
+在轨航天器支持中心
+账号：test_user_6 密码：QWER1234
+有效载荷运行管理中心-科学与应用数据中心
+账号：test_user_7 密码：QWER1234
+有效载荷运行管理中心-运控管理系统
+账号：test_user_8 密码：QWER1234
+
+========================================
+
+云上测试账号信息：
+云平台管理员
+账号：TEST_admin 密码：Huawei12#$
+
+各支持中心管理员
+空间站运营管理中心-总体仿真中心
+账号：TEST_FZ_user01 密码：Admin@FZ
+空间站运营管理中心-运营规划中心
+账号：TEST_GH_user01 密码：Admin@9000
+载人航天工程信息中心
+账号：TEST_GCXX_user01 密码：Admin@GCXX
+运行控制中心
+账号：TEST_YXKZ_user01 密码：Admin@YXKZ
+航天员支持中心
+账号：TEST_HTY_user01 密码：Admin@9000
+在轨航天器支持中心
+账号：TEST_HTQ_user01 密码：Admin@9000
+有效载荷运行管理中心-科学与应用数据中心
+账号：TEST_KXSJ_user01 密码：Admin@9000
+有效载荷运行管理中心-运控管理系统
+账号：TEST_YXZH_user01 密码：Admin@9000
+
+
+
+
+
